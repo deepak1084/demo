@@ -1,42 +1,6 @@
-{
-  "categories": "Business Center, Shopping Mall",
-  "cover_image": "https://scontent.xx.fbcdn.net/v/t1.0-9/q92/s720x720/60105686_657857918021146_161304158295556096_o.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=024abf62e8b5ed04dbf1150ade5d4040&oe=5D66D3FB",
-  "data": [
-    {
+ {
       "headline": "buy shoes at Generic shop",
       "keywords": "buy shoes, brand new website, hurry",
       "text": "Buy shoes online in our brand new website. Hurry up!!",
       "url": "http://www.genericshopbestshoes.com"
-    },
-    {
-      "headline": "shoes at Generic shop",
-      "keywords": "shoes, human foot, fashion, culture, shoe, item footwear, wearer, various activities, item decoration, design shoes",
-      "text": "A shoe is an item of footwear intended to protect and comfort the human foot while the wearer is doing various activities. Shoes are also used as an item of decoration and fashion.",
-      "url": "google.com"
-    },
-    {
-      "headline": "new post at Generic shop",
-      "keywords": "new post",
-      "text": "new post",
-      "url": "google.com"
-    },
-    {
-      "headline": "test description at Generic shop",
-      "images": [
-        "https://scontent.xx.fbcdn.net/v/t1.0-9/55845415_630095080797430_3569232786365612032_n.jpg?_nc_cat=106&_nc_ht=scontent.xx&oh=b48c5ad306743c387f3c5d7b4b6d744d&oe=5D7199D3",
-        "https://scontent.xx.fbcdn.net/v/t1.0-9/54519302_630095170797421_9210030000122626048_n.png?_nc_cat=107&_nc_ht=scontent.xx&oh=5f3f3c85cecc4dabc3dfd43c72739c3a&oe=5D9D11CF",
-        "https://scontent.xx.fbcdn.net/v/t1.0-9/54798860_630095230797415_9106242871329030144_n.png?_nc_cat=106&_nc_ht=scontent.xx&oh=18bdfd69d3011a89f094f415b2558dc1&oe=5D733DB2"
-      ],
-      "keywords": "test description",
-      "text": "test description",
-      "url": "google.com"
-    },
-    {
-      "headline": "test post at Generic shop",
-      "keywords": "test post",
-      "text": "test post",
-      "url": "google.com"
     }
-  ],
-  "website": "google.com"
-}
